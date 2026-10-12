@@ -1,0 +1,4 @@
+../Core/Src/HTU21.c:3:6:HTU21_Reset	1
+../Core/Src/HTU21.c:12:6:HTU21_Init	1
+../Core/Src/HTU21.c:23:7:HTU21_GetTemp	1
+../Core/Src/HTU21.c:41:7:HTU21_GetHum	1

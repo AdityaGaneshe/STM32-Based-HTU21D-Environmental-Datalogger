@@ -1,0 +1,4 @@
+../Core/Src/HTU21.c:3:6:HTU21_Reset	24	static
+../Core/Src/HTU21.c:12:6:HTU21_Init	24	static
+../Core/Src/HTU21.c:23:7:HTU21_GetTemp	32	static
+../Core/Src/HTU21.c:41:7:HTU21_GetHum	32	static
